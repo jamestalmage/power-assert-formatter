@@ -32,7 +32,7 @@
     "del": "^1.2.1",
     "empower": "^1.0.0",
     "escodegen": "^1.6.1",
-    "espower": "^1.0.6",
+    "espower": "jamestalmage/espower#jt-yield-statements",
     "gulp": "^3.9.0",
     "gulp-derequire": "^2.1.0",
     "gulp-dereserve": "^0.2.1",
